@@ -1,0 +1,88 @@
+body {
+    width: 1225px;
+}
+header {
+    
+    width: 100%;
+}
+.hovering{
+    padding-left: 220px;
+}
+.block {
+    margin: 20px 0 50px 220px;
+    background-color: orange;
+    color: white;
+    width: 950px;
+    padding: 15px;
+
+}
+.sitename  {
+    margin-bottom: 10px;
+    font: 20px Arial;
+}
+nav {
+    display: flex;
+    width: 600px;
+    
+}
+.container {
+    display: flex;
+
+}
+main {
+    width: 750px;
+    padding: 20px;
+   
+}
+main h1 {
+    font: 20px "Times new Roman";
+}
+.bea{
+    padding-left: 230px;
+}
+.net{
+    color: orange;
+    text-decoration: underline;
+}
+main p {
+    margin: 10px 0;
+    text-align: justify;
+    font: 15px Arial;
+}
+
+.left {
+    width: 200px;
+    margin-right: 20px;
+    padding: 20px;
+
+}
+.right {
+    width: 1000px;
+    margin-left: 20px;
+    padding: 20px;
+    font:20px 'Times New Roman', Times, serif;
+}
+footer {
+    padding: 30px 0;
+
+    text-align: center;
+}
+.block {
+    margin: 20px 0 50px 220px;
+}
+
+nav {
+    display: flex;
+}
+nav a {
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    font: 15px arial;
+}
+nav a:hover, nav a.active {
+    color: red;
+    text-decoration: underline;
+}
+
+
